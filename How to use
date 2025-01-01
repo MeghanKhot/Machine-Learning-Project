@@ -1,0 +1,20 @@
+How to Use
+
+Run the program:
+
+python Boosting And Bagging.py
+
+Use the "Load file" button to select a dataset (CSV file).
+
+The tool will preprocess the data and display the first 10 rows.
+
+Choose "Bagging" or "Boosting" to train the respective model.
+
+The performance metrics and confusion matrix will be displayed.
+
+
+Dataset Requirements
+
+The dataset must be in CSV format.
+
+It should have a column named class for the target variable.
